@@ -1,0 +1,31 @@
+BookID,Title,Author,ISBN,CopiesAvailable
+b001,Harry Potter and the Philosopher's Stone,J.K. Rowling,101,2
+b002,The Alchemist,Paulo Coelho,102,2
+b003,To Kill a Mockingbird,Harper Lee,103,3
+b004,The Great Gatsby,F. Scott Fitzgerald,104,2
+b005,1984,George Orwell,105,2
+b006,Pride and Prejudice,Jane Austen,106,3
+b007,The Catcher in the Rye,J.D. Salinger,107,2
+b008,The Hobbit,J.R.R. Tolkien,108,3
+b009,The Kite Runner,Khaled Hosseini,109,2
+b010,The Fault in Our Stars,John Green,110,2
+b011,Python Crash Course,Eric Matthes,111,3
+b012,Automate the Boring Stuff with Python,Al Sweigart,112,2
+b013,Learning Python,Mark Lutz,113,2
+b014,Fluent Python,Luciano Ramalho,114,2
+b015,Effective Java,Joshua Bloch,115,3
+b016,Clean Code,Robert C. Martin,116,2
+b017,Design Patterns,Erich Gamma,117,2
+b018,The Pragmatic Programmer,Andrew Hunt,118,2
+b019,JavaScript: The Good Parts,Douglas Crockford,119,2
+b020,Head First Design Patterns,Eric Freeman,120,2
+b021,Sapiens: A Brief History of Humankind,Yuval Noah Harari,121,3
+b022,Educated,Tara Westover,122,2
+b023,Becoming,Michelle Obama,123,2
+b024,The Power of Habit,Charles Duhigg,124,2
+b025,Atomic Habits,James Clear,125,3
+b026,Ikigai,Hector Garcia,126,2
+b027,The Subtle Art of Not Giving a F*ck,Mark Manson,127,2
+b028,Deep Work,Cal Newport,128,2
+b029,Thinking, Fast and Slow,Daniel Kahneman,129,2
+b030,Rich Dad Poor Dad,Robert Kiyosaki,130,2

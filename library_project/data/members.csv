@@ -1,0 +1,7 @@
+MemberID,Name,Email,JoinDate,PasswordHash,Role
+1001,Ajay,fakehash123,ajay@mail.com,2025-08-30,Member
+9781,Ajay Verma,ajay@gmail.com,2025-09-03,$2b$12$M7icXLegyPboZfbNiCEb0Ohsqc254eHUdgrZMZUk9vjZ.ikihYmsC,Member
+80,Aakash,,2025-09-03,$2b$12$y9R3hCq7QOvc48VCn879gueTEExIg9/6onnrrcn.VijX8Wvoc8Ea6,Member
+lib001,Librarian,admin@library,2025-09-04,$2b$12$dm5t2ZWJVq2T75WlZlDltuIi0fZtJ3QQsfPgGk.OUtgeXI9XaUQTC,Librarian
+109,Mr Saluja,,2025-09-04,$2b$12$mFwYVbwBFA2PIhJWoXB5NuaRu3xjB36WQiDSiD4GTgkE8ni7Cs1Yu,Librariaa
+111,Mr Saluja,,2025-09-04,$2b$12$vsZ3NqBGjbVwLZF60KexmeCFk/GT4mpapAAtKk0Vf8mUd7eYT0Zs6,Librarian

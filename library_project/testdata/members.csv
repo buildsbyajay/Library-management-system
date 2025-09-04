@@ -1,0 +1,2 @@
+MemberID,Name,Email,JoinDate,PasswordHash,Role
+lib001,Librarian,admin@library,2025-09-05,$2b$12$.Q5OOpaNUjHfj99Qm3cRdOA7ExLulfPPy/iBWp.n2SImv7bH3XrA.,Librarian
