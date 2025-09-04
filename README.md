@@ -44,7 +44,8 @@ This project helped me practice **OOP concepts, file handling, authentication, a
 
    Run automated tests with:  
 
-  ***pytest -q***
+  ***pytest -q*** <br>
+
  Green means everything is working! 🎉
 
 ## 📖 Sample Data
